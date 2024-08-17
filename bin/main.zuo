@@ -1,0 +1,8 @@
+#lang zuo
+
+(for-each
+ alert
+ (append
+  (list ""
+        "Hello World"
+        "")))
